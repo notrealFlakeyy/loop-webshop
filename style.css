@@ -528,6 +528,10 @@ p {
 
 }
 
+/* COLLECTIONS END */
+
+/* CART SECTION */
+
 #cart-middle {
     position: relative;
     width: 100vw;
@@ -567,3 +571,5 @@ p {
     justify-content: center;
     flex-direction: row;
 }
+
+/* CART SECTION END */
